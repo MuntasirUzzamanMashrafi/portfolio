@@ -63,7 +63,7 @@ Data-driven research, web app contributions, literature reviews, technical docum
 ---
 
 ## 🌐 Live Site
-[`index.html`](index.html) — Static portfolio built from `content.md` (single source of truth).  
+[https://MuntasirUzzamanMashrafi.github.io/portfolio](https://MuntasirUzzamanMashrafi.github.io/portfolio) — Static portfolio built from `content.md` (single source of truth).  
 No frameworks. IBM Plex Mono + Sans. `prefers-reduced-motion`, `@starting-style` entry, mobile @480px.
 
 ---
