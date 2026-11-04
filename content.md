@@ -3,6 +3,20 @@
 +60 18-236 8427 | muntasiruzzamanmashrafi@gmail.com
 linkedin.com/in/muntasiruzzamamashrafi | github.com/MuntasirUzzamanMashrafi
 
+## About
+
+I’m a second-year Computer Science student at Asia Pacific University (APU) in Kuala Lumpur, with a CGPA of 3.47/4.00. I like building things that work end to end, from web apps and database systems down to low-level code in assembly.
+
+My projects include PyShop, a Django e-commerce platform with a role-based admin dashboard, and the Bangladesh Prize Bond Checker, a deployed Streamlit app that uses OCR to verify bond numbers against official government PDFs and cuts manual checking to zero. I also designed a fully normalised SQL Server schema for a ticketing system and led a team building a shape rendering engine in NASM x86 Assembly on Linux.
+
+On the infrastructure side, I’m RHCSA-certified and worked as a Network Assistant in APU’s Network Operations Center, supporting a campus network of 10,000+ users. Earlier, as a Research Assistant Intern at Prime Corporation Ltd., I did literature reviews, built data collection and analysis pipelines, and wrote technical documentation.
+
+Outside coursework, I’m Vice President of the APU Competitive Programming Club, where I mentor 50+ members and run weekly algorithm sessions. I’m also a committee member of the APU Fintech Young Leaders Society and was a peer tutor in discrete mathematics.
+
+I’m currently looking for an internship in software development, AI, cybersecurity, or systems and network engineering. I speak English, Bangla, Bahasa Melayu, Urdu, and Hindi.
+
+Let’s connect if you’re hiring interns or working on something interesting.
+
 ## Education
 
 Asia Pacific University (APU) — Kuala Lumpur, Malaysia
