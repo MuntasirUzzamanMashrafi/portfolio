@@ -25,7 +25,9 @@ body {
 .site-header { position: sticky; top: 0; border-bottom: 1px solid rgba(var(--color-ink-rgb), 0.1); background: #ffffff; transition: background 200ms ease; width: 100%; z-index: 9999; }
 .site-header.scrolled { background: rgba(255, 255, 255, 0.95); }
 .nav { max-width: 720px; margin: 0 auto; padding: var(--space-md) var(--space-sm); display: flex; justify-content: space-between; align-items: center; background: transparent; position: relative; }
-.nav-brand { font-family: var(--font-mono); font-weight: 700; font-size: 1.125rem; text-decoration: none; color: var(--color-ink); }
+.nav-brand { display: flex; align-items: center; font-family: var(--font-mono); font-weight: 700; font-size: 1.125rem; letter-spacing: -0.02em; text-decoration: none; color: var(--color-ink); }
+.nav-brand img { height: 80px; width: 80px; border-radius: 50%; display: block; margin-right: var(--space-sm); }
+.nav-brand:hover { color: var(--color-steel); }
 .nav-list { display: flex; flex-wrap: wrap; gap: var(--space-md); list-style: none; }
 .nav-list a { font-family: var(--font-mono); font-size: 0.875rem; text-decoration: none; color: var(--color-steel); }
 .nav-list a:hover { color: var(--color-ink); }
